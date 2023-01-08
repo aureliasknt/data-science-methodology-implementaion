@@ -3,4 +3,4 @@ Implementing Data Science Methodology to a E-Learning Student Reactions Dataset 
 
 Data source: https://www.kaggle.com/datasets/marlonferrari/elearning-student-reactions
 
-Dashboard: 
+Dashboard: https://datastudio.google.com/reporting/d2677501-2aa1-4d8d-b965-283f9cb49895
